@@ -1,0 +1,18 @@
+# malware samples
+malware_samples/
+*.exe
+*.dll
+*.bin
+
+# zip original del laboratorio
+MALWR_lab3.zip
+
+# entorno virtual
+venv/
+
+# archivos de python
+__pycache__/
+*.pyc
+
+# archivos del sistema
+.DS_Store
